@@ -2,7 +2,6 @@
 
 **[Download Excel Workbook](./excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx) | [View Raw Campaign Spend Data](./data/marketing_spend.csv.csv)**
 
-![Marketing Campaign Performance Dashboard](./screenshot.png)
 
 ## Project Overview
 This project presents an interactive, full-funnel marketing performance tracker built entirely in **Microsoft Excel**. Working with a multi-channel campaign dataset containing N=309 rows of granular daily campaign data, the workbook transforms raw performance metrics (impressions, clicks, spend, leads, orders, revenue) into a strategic, dashboard-driven decision tool.
