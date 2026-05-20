@@ -61,11 +61,12 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 ## Current Projects
 
 ### **Project 1: Acquisition Funnel — Excel Dashboard**
-*Stack: Microsoft Excel | Power Query | Advanced Formulas | Pivots & Dashboards*
-- [Review Case Study and Pipeline HERE](./06-Acquisition-Funnel-Excel-Dashboard)
-- [Download Excel Workbook HERE](./06-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx)
+*Stack: Microsoft Excel | Power Query | Advanced Formulas | HTML & Chart.js Web Dashboard*
+*   **[⚡ OPEN LIVE INTERACTIVE DASHBOARD PREVIEW ⚡](./06-Acquisition-Funnel-Excel-Dashboard/index.html)** *(Filter, view, and interact with the campaign metrics directly in your browser)*
+*   **[Download Excel Workbook HERE](./06-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx)** *(Note: Excel `.xlsx` spreadsheets cannot be opened inside the web browser on GitHub and must be downloaded to inspect in Excel)*
+*   **[Detailed Project Pipeline & Methodology HERE](./06-Acquisition-Funnel-Excel-Dashboard)**
 
-A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage pipeline, it uses Power Query to clean and transform raw multi-channel data, calculates standard KPI metrics (CTR, CPA, ROAS, AOV, Gross Profit) using safety-checked formulas, and features an interactive dark-themed dashboard frontend with slicers and timelines for strategic marketing insights.
+A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage data architecture, it cleans and transforms raw campaign spend metrics using Power Query, calculates core KPIs (CTR, CPA, ROAS, AOV) via safety-checked division formulas, and aggregates dynamic performance data across digital platforms.
 
 ### **Project 2: Personal Portfolio Website**
 *Stack: HTML | CSS | JS | Vercel | Antigravity AI*
