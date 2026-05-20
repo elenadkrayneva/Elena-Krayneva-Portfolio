@@ -65,8 +65,6 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 - [Review Case Study and Pipeline HERE](./00-Acquisition-Funnel-Excel-Dashboard)
 - [Download Excel Workbook HERE](./00-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx)
 
-![Acquisition Funnel Excel Dashboard](./00-Acquisition-Funnel-Excel-Dashboard/screenshot.png)
-
 A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage pipeline, it uses Power Query to clean and transform raw multi-channel data, calculates standard KPI metrics (CTR, CPA, ROAS, AOV, Gross Profit) using safety-checked formulas, and features an interactive dark-themed dashboard frontend with slicers and timelines for strategic marketing insights.
 
 ### **Project 2: Personal Portfolio Website**
