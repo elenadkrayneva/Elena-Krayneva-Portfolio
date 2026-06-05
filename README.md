@@ -63,16 +63,19 @@ MSc Digital Marketing & Analytics student with a focus on marketing performance 
 ### **Project 1: Acquisition Funnel — Excel Dashboard**
 *Stack: Microsoft Excel | Power Query | Advanced Formulas | Pivots & Dashboards*
 - [Review Case Study and Pipeline HERE](./00-Acquisition-Funnel-Excel-Dashboard)
-- [Download Excel Workbook HERE](./00-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx)
+- [Download Excel Workbook HERE](https://github.com/elenadkrayneva/Elena-Krayneva-Portfolio/raw/main/00-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx)
+<img src="./00-Acquisition-Funnel-Excel-Dashboard/screenshot.png?v=4" alt="Acquisition Funnel Excel Dashboard" width="600" />
 
-![Acquisition Funnel Excel Dashboard](./00-Acquisition-Funnel-Excel-Dashboard/screenshot.png)
-
-A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage pipeline, it uses Power Query to clean and transform raw multi-channel data, calculates standard KPI metrics (CTR, CPA, ROAS, AOV, Gross Profit) using safety-checked formulas, and features an interactive dark-themed dashboard frontend with slicers and timelines for strategic marketing insights.
+A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage pipeline using Power Query to clean and transform raw multi-channel data, it calculates safety-checked KPIs (CTR, CPA, ROAS, AOV, Gross Profit) across N=308 campaign rows. Features an interactive, dark-themed dashboard frontend with slicers and timelines.
+* **Key Results Analyzed**: 1.58B impressions, 3.00M clicks, $30.59M ad spend, and $42.89M revenue (generating **$12.30M gross profit** and an overall **ROAS of 1.40x**).
+* **Core Insight**: Identified significant ROI disparity between platforms, showcasing **YouTube as the top performer (3.77x ROAS, 277.3% ROMI)** and **Facebook as highly inefficient (0.66x ROAS, -34.1% ROMI)**.
 
 ### **Project 2: Personal Portfolio Website**
 *Stack: HTML | CSS | JS | Vercel | Antigravity AI*
 - [Review Development Process HERE](./01-Portfolio-Website)
 - [View Live Website HERE](https://www.ekrayneva.space/)
+
+<img src="./01-Portfolio-Website/screenshot.png?v=2" alt="Personal Portfolio Website" width="600" />
 
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
@@ -81,26 +84,34 @@ A digital presence developed as a **"Vibecoding"** experiment using the Antigrav
 - [View Detailed Case Study HERE](./02-Digify-Active)
 - [View Project Site HERE](https://digifyactive.com/)
 
+<img src="./02-Digify-Active/screenshot.png?v=2" alt="Digify Active Website" width="600" />
+
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
 ### **Project 4: Walmart A/B Testing – Product Bundling & Revenue Analysis**
 *Stack: R | Marketing Analytics | Causal Inference*
 - [Review Case Study and R Analysis HERE](./03-Walmart-AB-Testing-R)
-- [View Analysis Presentation HERE](./03-Walmart-AB-Testing-R/Causal%20Inference%20in%20marketing%20(1).pdf)
+- [View Analysis Presentation HERE](./03-Walmart-AB-Testing-R/Causal_Inference_in_Marketing.pdf)
+
+<img src="./03-Walmart-AB-Testing-R/screenshot.png?v=2" alt="Walmart A/B Testing" width="600" />
 
 A marketing-focused A/B test conducted in R to evaluate the effectiveness of product bundling recommendations at checkout. This analysis demonstrates how a treatment can be significantly beneficial for **Average Order Value (AOV)** even when it doesn't meaningfully impact basic conversion rates.
 
 ### **Project 5: NYC Airbnb Market Analysis – Pricing Drivers and Trends**
 *Stack: Python | Pandas | Seaborn | Exploratory Data Analysis*
 - [Review Case Study and Python Notebook HERE](./04-Python-NYC-Airbnb-Analysis)
-- [View Presentation Deck HERE](./04-Python-NYC-Airbnb-Analysis/Black%20and%20White%20Photographer%20Portfolio%20Presentation,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20(1).pdf)
+- [View Presentation Deck HERE](./04-Python-NYC-Airbnb-Analysis/NYC_Airbnb_Market_Analysis_Presentation.pdf)
+
+<img src="./04-Python-NYC-Airbnb-Analysis/screenshot.png?v=2" alt="NYC Airbnb Analysis" width="600" />
 
 An extensive EDA project using Python to uncover pricing trends in the New York City Airbnb market. The analysis identifies key determinants of listing prices, including location (borough-specific metrics), room types, and host availability, providing strategic insights for property management and market positioning.
 
 ### **Project 6: Human-AI Ethics – Experimental Analysis of the "Kill Switch"**
 *Stack: R | Tidyverse | Stats | Data Ethics*
 - [Review Case Study and R Analysis HERE](./05-Human-AI-Interaction-R-Analysis)
-- [View Analysis Presentation Deck HERE](./05-Human-AI-Interaction-R-Analysis/Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)
+- [View Analysis Presentation Deck HERE](./05-Human-AI-Interaction-R-Analysis/Human_AI_Interaction_Analysis_Presentation.pdf)
+
+<img src="./05-Human-AI-Interaction-R-Analysis/screenshot.png?v=2" alt="Human-AI Ethics Analysis" width="600" />
 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 

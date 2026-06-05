@@ -2,7 +2,7 @@
 
 **[Live Website](https://www.ekrayneva.space/) | [Case Study Code](./)**
 
-![Website Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="Website Screenshot" width="600" />
 
 ## Project Overview
 This project is a personal portfolio website designed to present my professional identity, skills, and projects in the fields of marketing analytics and business strategy. The development focuses on structural clarity, content-driven design, and a logical information flow to ensure a professional presentation of my experience.

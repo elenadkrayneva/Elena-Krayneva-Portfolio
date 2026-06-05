@@ -1,6 +1,7 @@
 # Walmart A/B Test: Product Bundling and Revenue Optimization
 
-**[View R Analysis Code](./exercise_09_revenue_vs_conversion_walmart_student%20(1).R) | [Download Presentation](./Causal%20Inference%20in%20marketing%20(1).pdf)**
+**[Download Presentation](./Causal_Inference_in_Marketing.pdf)**
+<img src="./screenshot.png?v=2" alt="Walmart A/B Testing Analysis Chart" width="600" />
 
 ## Project Overview
 This project simulates a real-world A/B test conducted by Walmart to evaluate a new product bundling recommendation module at checkout. While many businesses focus solely on conversion rate, this analysis highlights a strategic scenario where **Revenue per Visitor (RPV)** and **Average Order Value (AOV)** become the primary success metrics over raw conversion.

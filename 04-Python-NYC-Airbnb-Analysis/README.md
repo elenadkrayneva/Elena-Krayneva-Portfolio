@@ -1,6 +1,7 @@
 # NYC Airbnb Market Analysis: Pricing Drivers and Trends
 
-**[View Jupyter Notebook](./Final_Python%20Final%20Airbnb.ipynb) | [Download Presentation Deck](./Black%20and%20White%20Photographer%20Portfolio%20Presentation,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20(1).pdf)**
+**[View Jupyter Notebook](./Final_Python%20Final%20Airbnb.ipynb) | [Download Presentation Deck](./NYC_Airbnb_Market_Analysis_Presentation.pdf)**
+<img src="./screenshot.png?v=2" alt="NYC Airbnb Price Analysis by Borough" width="600" />
 
 ## Project Overview
 This project provides an exploratory data analysis (EDA) of the New York City Airbnb market using a 2019 dataset of ~48k listings. The goal is to help potential hosts and business strategists understand the key price drivers in one of the world's most competitive short-term rental markets.

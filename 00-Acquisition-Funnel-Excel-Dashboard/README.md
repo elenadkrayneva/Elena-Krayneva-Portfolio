@@ -1,11 +1,10 @@
 # Acquisition Funnel: Marketing Campaign Performance Tracker
 
-**[Download Excel Workbook](./excel/Marketing_Campaign_Performance_Tracker.xlsx.xlsx) | [View Raw Campaign Spend Data](./data/marketing_spend.csv.csv)**
-
-![Marketing Campaign Performance Dashboard](./screenshot.png)
+**[Download Excel Workbook](https://github.com/elenadkrayneva/Elena-Krayneva-Portfolio/raw/main/00-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx) | [View Raw Campaign Spend Data](./data/marketing_spend.csv)**
+<img src="./screenshot.png?v=4" alt="Marketing Campaign Performance Dashboard" width="600" />
 
 ## Project Overview
-This project presents an interactive, full-funnel marketing performance tracker built entirely in **Microsoft Excel**. Working with a multi-channel campaign dataset containing N=309 rows of granular daily campaign data, the workbook transforms raw performance metrics (impressions, clicks, spend, leads, orders, revenue) into a strategic, dashboard-driven decision tool.
+This project presents an interactive, full-funnel marketing performance tracker built entirely in **Microsoft Excel**. Working with a multi-channel campaign dataset containing N=308 rows of granular daily campaign data, the workbook transforms raw performance metrics (impressions, clicks, spend, leads, orders, revenue) into a strategic, dashboard-driven decision tool.
 
 The pipeline is built on a clean, multi-layered sheet design:
 *   `README`: Project scope and guide.
@@ -25,10 +24,43 @@ The pipeline is built on a clean, multi-layered sheet design:
 
 ---
 
+## Key Campaign Performance & Business Insights
+Analysis of the campaign data (spanning February 1 to February 28, 2021) reveals the following high-level marketing performance metrics:
+
+### Core Performance Metrics
+| Metric | Value | Business Interpretation |
+| :--- | :--- | :--- |
+| **Total Impressions** | 1,577,722,399 | Broad brand visibility across channels. |
+| **Total Clicks** | 2,999,919 | Ad interaction count with a **0.19% overall CTR**. |
+| **Total Spend** | $30,590,879.82 | Cumulative marketing investment; average **CPC is $10.20**. |
+| **Total Revenue** | $42,889,366.00 | Topline sales generated from campaigns. |
+| **Gross Profit** | $12,298,486.18 | Net marketing return after ad spend. |
+| **Overall ROAS** | **1.40x** | Return on Ad Spend (ROMI of **40.20%**). |
+| **Average Order Value (AOV)**| $5,332.51 | High-ticket segment focus. |
+| **Click-to-Lead CR** | 2.19% | 65,579 leads captured from click traffic (CPL of $466.47). |
+| **Lead-to-Order CR** | 12.26% | 8,043 closed sales from leads (overall CPA of $3,803.42). |
+
+### Platform ROI & Efficiency Analysis
+| Platform | Marketing Spend | Revenue Generated | ROAS | Cost-Per-Acquisition (CPA) | Return on Marketing Investment (ROMI) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **YouTube** | $4,057,936.51 | $15,311,433.00 | **3.77x** | $2,120.13 | **277.32%** (Top Performer) |
+| **Instagram Social** | $3,631,431.00 | $5,214,584.00 | **1.44x** | $3,390.69 | **43.60%** (Profitable) |
+| **Instagram Influencer** | $4,247,367.57 | $5,808,454.00 | **1.37x** | $3,861.24 | **36.75%** (Profitable) |
+| **Banner** | $5,026,674.76 | $6,152,960.00 | **1.22x** | $3,209.88 | **22.41%** (Profitable) |
+| **Google** | $3,460,400.07 | $3,705,065.00 | **1.07x** | $4,179.23 | **7.07%** (Break-even) |
+| **Facebook** | $10,167,069.91 | $6,696,870.00 | **0.66x** | $6,500.68 | **-34.13%** (Unprofitable) |
+
+#### Strategic Takeaways:
+1. **YouTube Dominance**: YouTube campaigns are highly efficient, generating over **35.7% of total campaign revenue** on only **13.3% of the total budget**. The lowest CPA ($2,120.13) and highest ROAS (3.77x) suggest YouTube should receive a larger share of future budgets.
+2. **Instagram Performance**: Both Social and Influencer channels on Instagram are healthy and profitable, delivering ROAS above 1.35x.
+3. **Facebook Bloat**: Facebook campaigns consumed **33.2% of the entire budget** but returned only 15.6% of the revenue. With a negative ROMI of -34.1% and a CPA of $6,500.68 (well above the $5,332.51 average order value), Facebook campaigns require immediate optimization or budget reallocation.
+
+---
+
 ## Data Pipeline & Methodology
 
 ### Step 1: Data Import & Cleaning (Power Query)
-The raw dataset (`marketing_spend.csv.csv`) was imported using **Excel Power Query** to establish an automated, repeatable data ingestion pipeline. The following transformations were implemented:
+The raw dataset (`marketing_spend.csv`) was imported using **Excel Power Query** to establish an automated, repeatable data ingestion pipeline. The following transformations were implemented:
 1.  **Ingestion & Promotion**: CSV file loaded, promoting the first row as column headers.
 2.  **Structural Cleaning**: Removed the redundant `id` column while keeping `campaign_id` as the primary key.
 3.  **Advanced Extraction**: Duplicated the `campaign_name` field and split it to isolate **Platform** (e.g., Google, Facebook) and **Campaign_segment** (e.g., Hot, Wide, Retargeting).

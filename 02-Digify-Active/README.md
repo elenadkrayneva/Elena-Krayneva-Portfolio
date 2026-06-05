@@ -2,7 +2,7 @@
 
 **[Live Project Site](https://digifyactive.com/) | [Project Analysis](./)**
 
-![Digify Active Website Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="Digify Active Website Screenshot" width="600" />
 
 ## Project Overview
 Digify Active is a team-based academic project focused on building and testing a specialized B2B marketing agency for the SME fitness industry. The scope of the project covers the entire go-to-market (GTM) lifecycle, from initial market research to the execution of performance marketing campaigns.

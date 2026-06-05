@@ -1,6 +1,7 @@
 # Human-AI Ethics: Experimental Analysis of the "Kill Switch"
 
-**[Review Case Study Code](./scripts) | [Full Data Analysis Deck](./Blue%20Professional%20AI-Driven%20Business%20Solutions%20Presentation%20(1).pdf)**
+**[Full Data Analysis Deck](./Human_AI_Interaction_Analysis_Presentation.pdf)**
+<img src="./screenshot.png?v=2" alt="Human-AI Ethics Analysis Chart" width="600" />
 
 ## Project Overview
 This statistical analysis project investigates the ethical dynamics between humans and AI agents. Specifically, it explores how people's willingness to terminal an AI "kill switch" varies based on their perceptions of the AI's sentience, experience, and moral status. Using experimental data from over 260 participants, I analyzed the psychological drivers of human-AI trust and empathy.
