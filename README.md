@@ -32,33 +32,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 - [Tableau / Power BI: Data Visualization Dashboards](#planned-projects)
 - [Marketing Analytics: KPI Dashboard](#planned-projects)
 
----
 
-## Identity and Focus
-MSc Digital Marketing & Analytics student with a focus on marketing performance and structured business insights. I bridge the gap between technical data analysis and strategic business impact, specializing in campaign performance, KPI reporting, and market research.
-
-## Skills
-
-### Data and Analytics
-- Statistical Analysis (Python, R)
-- SQL Database Management (PostgreSQL)
-- Marketing Attribution Modeling
-- KPI Framework Development
-
-### Visualization and Reporting
-- Interactive Dashboards (Tableau, Power BI)
-- Performance Reporting (Excel, Google Sheets)
-- Data Storytelling for Stakeholders
-
-### Marketing Strategy
-- Go-to-Market Strategy
-- Competitor and Market Research
-- Funnel Optimization
-- Performance Marketing (Google Ads, Meta)
-
----
-
-## Current Projects
 
 ### **Project 1: Acquisition Funnel — Excel Dashboard**
 *Stack: Microsoft Excel | Power Query | Advanced Formulas | Pivots & Dashboards*
