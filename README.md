@@ -34,6 +34,9 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 
 
 
+
+
+
 ### **Project 1: Acquisition Funnel — Excel Dashboard**
 *Stack: Microsoft Excel | Power Query | Advanced Formulas | Pivots & Dashboards*
 - [Review Case Study and Pipeline HERE](./00-Acquisition-Funnel-Excel-Dashboard)
