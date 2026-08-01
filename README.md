@@ -93,15 +93,6 @@ An extensive EDA project using Python to uncover pricing trends in the New York 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
 ---
-
-## Planned Projects
-These projects are currently in development as part of my MSc in Digital Marketing & Analytics.
-
-- **[SQL] Marketing Data Project**
-  Focus: Customer Lifetime Value (CLV) and Cohort Analysis.
-- **[Tableau / Power BI] Data Visualization Dashboards**
-  Focus: Funnel conversion and sales performance.
-- **[Analytics] Marketing Analytics Dashboard**
-  Focus: Unified KPI tracking and ROI monitoring.
-
----
+## Additional Projects
+- **[Zoria]** – Project located in the `Zoria` directory.
+- **[Obliquo]** – Project located in the `Obliquo` directory.
