@@ -93,6 +93,13 @@ An extensive EDA project using Python to uncover pricing trends in the New York 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
 ---
-## Additional Projects
-- **[Zoria]** – Project located in the `Zoria` directory.
-- **[Obliquo]** – Project located in the `Obliquo` directory.
+### **Project 7: Zoria – Data/Analytics Project**
+*Stack: Python | Pandas | Power BI*
+- Project located in the `Zoria` directory.
+[Review Zoria project HERE](Zoria)
+
+---
+### **Project 8: Obliquo – Social Media Content Project**
+*Stack: Adobe Photoshop | Illustrator | Social Media Scheduling Tools*
+- Project located in the `Obliquo` directory.
+[Review Obliquo project HERE](Obliquo)
