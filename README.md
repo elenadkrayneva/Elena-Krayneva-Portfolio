@@ -95,9 +95,7 @@ A research-driven statistical analysis in R exploring the ethics of Human-AI Int
 
 - [Review the concise consulting case study HERE](./08-Oblicuo-Customer-Insights-Growth-Strategy)
 
-<p align="center">
-  <img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="70%">
-</p>
+<img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="400" />
 
 A consulting project for a Barcelona listening bar seeking to increase Tuesdayâ€“Thursday visits without weakening its premium local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the team translated customer barriers into a priority-segment strategy, implementation plan and KPI framework.
 
@@ -106,9 +104,7 @@ A consulting project for a Barcelona listening bar seeking to increase Tuesdayâ€
 
 - [Review the concise anonymised consulting case study HERE](./09-Zoria-Strategic-Market-Prioritisation)
 
-<p align="center">
-  <img src="./09-Zoria-Strategic-Market-Prioritisation/assets/01_hero_zoria.jpg" alt="ZORIA strategic market prioritisation project" width="70%">
-</p>
+<img src="./09-Zoria-Strategic-Market-Prioritisation/assets/01_hero_zoria.jpg" alt="ZORIA strategic market prioritisation project" width="400" />
 
 A consulting project for an early-stage AI startup seeking a focused and defensible market direction. The team compared potential verticals through market research, competitive benchmarking, prioritisation criteria, market-sizing logic and feasibility assessment. The selected industry and final recommendation remain confidential.
 
