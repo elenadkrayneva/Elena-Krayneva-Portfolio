@@ -19,18 +19,16 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 
 ## Table of Contents
 
-### Current Projects
+### Projects
 - [Project 1: Acquisition Funnel — Excel Dashboard](#project-1-acquisition-funnel--excel-dashboard)
 - [Project 2: Personal Portfolio Website](#project-2-personal-portfolio-website)
 - [Project 3: Digify Active – B2B Marketing Agency Case Study](#project-3-digify-active--b2b-marketing-agency-case-study)
 - [Project 4: Walmart A/B Testing – Product Bundling & Revenue Analysis](#project-4-walmart-ab-testing--product-bundling--revenue-analysis)
 - [Project 5: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-5-nyc-airbnb-market-analysis--pricing-drivers-and-trends)
 - [Project 6: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-6-human-ai-ethics--experimental-analysis-of-the-kill-switch)
+- [Project 7: Oblicuo Hi-Fi Bar – Social Media Strategy & Customer Journey](#project-7-oblicuo-hi-fi-bar--social-media-strategy--customer-journey)
+- [Project 8: Zoria – AI Startup Strategic Consulting](#project-8-zoria--ai-startup-strategic-consulting)
 
-### In Progress and Planned
-- [SQL: Marketing Data Project (PostgreSQL)](#planned-projects)
-- [Tableau / Power BI: Data Visualization Dashboards](#planned-projects)
-- [Marketing Analytics: KPI Dashboard](#planned-projects)
 
 
 
@@ -92,14 +90,24 @@ An extensive EDA project using Python to uncover pricing trends in the New York 
 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
----
-### **Project 7: Zoria – Data/Analytics Project**
-*Stack: Python | Pandas | Power BI*
-- Project located in the `Zoria` directory.
-[Review Zoria project HERE](Zoria)
+### **Project 7: Oblicuo Hi-Fi Bar – Social Media Strategy & Customer Journey**
+*Stack: Social Media Strategy | Customer Journey Mapping | Empathy Mapping | Content Calendar*
+- [Review Case Study and Content Strategy HERE](./08-Oblicuo-Social-Media-Strategy)
+- [View Content Strategy Document HERE](./08-Oblicuo-Social-Media-Strategy/Social%20media%20content%20strategy.docx)
 
----
-### **Project 8: Obliquo – Social Media Content Project**
-*Stack: Adobe Photoshop | Illustrator | Social Media Scheduling Tools*
-- Project located in the `Obliquo` directory.
-[Review Obliquo project HERE](Obliquo)
+<img src="./08-Oblicuo-Social-Media-Strategy/screenshot.png?v=1" alt="Oblicuo Customer Journey & Social Strategy" width="600" />
+
+A data-informed social media content strategy for Oblicuo Hi-Fi Bar in Barcelona (inspired by Japanese listening bar culture). Based on primary qualitative research (N=16 depth interviews) and competitive benchmarking across audiophile venues, the strategy targets **"The After-Work Neighbor"** (Marta, 28–40) and **"The Social First-Timer"** by transforming social media from an inspiration platform into a risk-reduction mechanism.
+* **Core Strategy**: Alignment of content posting windows (16:30–19:00) and low-stimulation visual cues (uncrowded seating, soft ambient lighting, personal space) to trigger spontaneous weekday visits (Tue–Thu, 19:00–22:00) during the Consideration stage.
+* **Key Deliverables**: Customer Empathy Maps, 6-stage Customer Journey Pipeline (Awareness to Advocacy), and a full 3-month multi-channel posting calendar (Instagram, Facebook, LinkedIn, X).
+
+### **Project 8: Zoria – AI Startup Strategic Consulting**
+*Stack: Business Consulting | GTM Strategy | Market Gap Analysis | AI Infrastructure*
+- [Review Case Study and Strategy Roadmap HERE](./09-Zoria-AI-Startup-Strategy)
+
+<img src="./09-Zoria-AI-Startup-Strategy/screenshot.png?v=1" alt="Zoria AI Startup Strategy Roadmap" width="600" />
+
+A strategic consulting framework developed for an enterprise AI startup. The project establishes a comprehensive roadmap connecting core AI technology capabilities with target industry pain points, data governance infrastructure, and scalable B2B growth channels.
+* **Core Framework**: Evaluates 5 strategic pillars: **Core Technology** assessment, **Market Gap** identification in vertical automation, **Target Industry** selection, **Data Infrastructure** governance, and **Growth Strategy** execution (unit economics & customer acquisition funnels).
+* **Strategic Impact**: Provides a structured methodology for early-stage AI ventures to transition from technical prototype to scalable B2B commercial deployment.
+
