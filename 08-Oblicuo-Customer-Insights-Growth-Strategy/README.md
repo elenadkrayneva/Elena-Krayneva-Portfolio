@@ -1,7 +1,7 @@
 # Oblicuo Hi-Fi Bar — Customer Insights & Weeknight Growth Strategy
 
 <p align="center">
-  <img src="./assets/01_hero_oblicuo.jpg" alt="Oblicuo Hi-Fi Bar customer insights and weeknight growth strategy" width="100%">
+  <img src="./assets/01_hero_oblicuo.jpg" alt="Oblicuo Hi-Fi Bar customer insights and weeknight growth strategy" width="480">
 </p>
 
 **Strategic & Marketing Consulting Project · Barcelona**
@@ -21,7 +21,7 @@ Our team combined platform and competitor analysis with primary customer researc
 The recommendation prioritised relevant local demand rather than maximum reach. It connected customer barriers with audience-specific communication, an implementation plan and a KPI framework linking digital activity to offline visits.
 
 <p align="center">
-  <img src="./assets/02_project_at_a_glance.png" alt="Oblicuo project scope: 16 interviews, five personas and three-month implementation plan" width="100%">
+  <img src="./assets/02_project_at_a_glance.png" alt="Oblicuo project scope: 16 interviews, five personas and three-month implementation plan" width="480">
 </p>
 
 ## Client Context
@@ -44,7 +44,7 @@ The challenge was not simply to maximise visibility. Broad viral reach could att
 The strategic objective was therefore to generate more relevant local visits from Tuesday to Thursday while protecting Oblicuo’s premium, intimate and “hidden-gem” positioning.
 
 <p align="center">
-  <img src="./assets/03_business_challenge.png" alt="Oblicuo business challenge balancing weekday growth and premium local identity" width="100%">
+  <img src="./assets/03_business_challenge.png" alt="Oblicuo business challenge balancing weekday growth and premium local identity" width="480">
 </p>
 
 ## Consulting Approach
@@ -52,7 +52,7 @@ The strategic objective was therefore to generate more relevant local visits fro
 We structured the project as a sequence of research, diagnosis and recommendation stages:
 
 <p align="center">
-  <img src="./assets/04_consulting_approach.png" alt="Consulting approach from platform audit to strategy and KPI framework" width="100%">
+  <img src="./assets/04_consulting_approach.png" alt="Consulting approach from platform audit to strategy and KPI framework" width="480">
 </p>
 
 This process moved from an open commercial question to audience-specific and measurable recommendations.
@@ -75,13 +75,13 @@ The interview guide covered:
 The purpose was to understand not only customer preferences, but how people made an actual venue-selection decision.
 
 <p align="center">
-  <img src="./assets/05_research_evidence.png" alt="Anonymised evidence from Oblicuo visitor interviews" width="100%">
+  <img src="./assets/05_research_evidence.png" alt="Anonymised evidence from Oblicuo visitor interviews" width="480">
 </p>
 
 ## Key Strategic Insights
 
 <p align="center">
-  <img src="./assets/06_key_insights.png" alt="Four strategic insights from Oblicuo customer research" width="100%">
+  <img src="./assets/06_key_insights.png" alt="Four strategic insights from Oblicuo customer research" width="480">
 </p>
 
 The research changed the strategy in four ways:
@@ -107,7 +107,7 @@ Based on interview findings, we developed a five-persona framework representing 
 - **The Independent DJ** — contributes directly to the customer experience and the venue’s earned visibility.
 
 <p align="center">
-  <img src="./assets/07_persona_map.png" alt="Qualitative segmentation of four customer personas and one collaborator persona" width="100%">
+  <img src="./assets/07_persona_map.png" alt="Qualitative segmentation of four customer personas and one collaborator persona" width="480">
 </p>
 
 *The map is a qualitative synthesis of interview findings, not a quantitative clustering output.*
@@ -123,7 +123,7 @@ The After-Work Neighbor was especially relevant because the segment had the stro
 The main decision criteria were proximity, calmness, seating availability, conversation comfort and a predictable atmosphere. The main barriers were uncertainty about noise, crowd levels and whether the venue would feel too nightlife-oriented.
 
 <p align="center">
-  <img src="./assets/08_priority_persona.png" alt="After-Work Neighbor priority persona profile" width="100%">
+  <img src="./assets/08_priority_persona.png" alt="After-Work Neighbor priority persona profile" width="480">
 </p>
 
 ## Customer Journey
@@ -131,7 +131,7 @@ The main decision criteria were proximity, calmness, seating availability, conve
 The priority persona was primarily located in the **consideration stage**. She already knew nearby options; the main challenge was deciding whether Oblicuo was suitable for that specific evening.
 
 <p align="center">
-  <img src="./assets/09_customer_journey.png" alt="After-Work Neighbor customer journey with consideration as the key bottleneck" width="100%">
+  <img src="./assets/09_customer_journey.png" alt="After-Work Neighbor customer journey with consideration as the key bottleneck" width="480">
 </p>
 
 ## Strategic Recommendation
@@ -139,7 +139,7 @@ The priority persona was primarily located in the **consideration stage**. She a
 The recommendation reframed social media from a general visibility channel into a tool for reducing customer uncertainty and supporting repeatable weekday behaviour.
 
 <p align="center">
-  <img src="./assets/10_strategy_logic.png" alt="Strategy logic connecting the business objective, customer barrier and desired behaviour" width="100%">
+  <img src="./assets/10_strategy_logic.png" alt="Strategy logic connecting the business objective, customer barrier and desired behaviour" width="480">
 </p>
 
 The strategy focused on:
@@ -160,13 +160,13 @@ For the priority persona, the recommendation was translated into four content pi
 4. **Local proximity**
 
 <p align="center">
-  <img src="./assets/11_content_framework.png" alt="Four content pillars linked to customer barriers and behavioural signals" width="100%">
+  <img src="./assets/11_content_framework.png" alt="Four content pillars linked to customer barriers and behavioural signals" width="480">
 </p>
 
 The recommended posting window was concentrated around **16:30–19:00**, close to the period when customers were likely to discuss or make an after-work decision.
 
 <p align="center">
-  <img src="./assets/12_calendar_excerpt.png" alt="One-week excerpt from the three-month content implementation calendar" width="100%">
+  <img src="./assets/12_calendar_excerpt.png" alt="One-week excerpt from the three-month content implementation calendar" width="480">
 </p>
 
 ## Measurement Framework
@@ -174,7 +174,7 @@ The recommended posting window was concentrated around **16:30–19:00**, close 
 The KPI framework connected social activity with the offline business objective.
 
 <p align="center">
-  <img src="./assets/13_kpi_tree.png" alt="KPI funnel from audience quality to offline business outcomes" width="100%">
+  <img src="./assets/13_kpi_tree.png" alt="KPI funnel from audience quality to offline business outcomes" width="480">
 </p>
 
 The framework distinguished:
@@ -217,7 +217,7 @@ I contributed across the main research and strategy stages of the consulting pro
 For one priority persona—the **After-Work Neighbor**—I independently developed the detailed implementation layer, including the behavioural objective, journey-stage sub-goals, content principles, channel and timing logic, three-month content calendar, and proposed copy and visual concepts.
 
 <p align="center">
-  <img src="./assets/14_contribution.png" alt="Project-wide contribution and persona-level development" width="100%">
+  <img src="./assets/14_contribution.png" alt="Project-wide contribution and persona-level development" width="480">
 </p>
 
 ## Relevance to Strategic and Marketing Consulting

@@ -39,7 +39,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 *Stack: Microsoft Excel | Power Query | Advanced Formulas | Pivots & Dashboards*
 - [Review Case Study and Pipeline HERE](./00-Acquisition-Funnel-Excel-Dashboard)
 - [Download Excel Workbook HERE](https://github.com/elenadkrayneva/Elena-Krayneva-Portfolio/raw/main/00-Acquisition-Funnel-Excel-Dashboard/excel/Marketing_Campaign_Performance_Tracker.xlsx)
-<img src="./00-Acquisition-Funnel-Excel-Dashboard/screenshot.png?v=4" alt="Acquisition Funnel Excel Dashboard" width="600" />
+<img src="./00-Acquisition-Funnel-Excel-Dashboard/screenshot.png?v=4" alt="Acquisition Funnel Excel Dashboard" width="400" />
 
 A comprehensive campaign performance tracker and acquisition funnel dashboard. Built on a multi-stage pipeline using Power Query to clean and transform raw multi-channel data, it calculates safety-checked KPIs (CTR, CPA, ROAS, AOV, Gross Profit) across N=308 campaign rows. Features an interactive, dark-themed dashboard frontend with slicers and timelines.
 * **Key Results Analyzed**: 1.58B impressions, 3.00M clicks, $30.59M ad spend, and $42.89M revenue (generating **$12.30M gross profit** and an overall **ROAS of 1.40x**).
@@ -50,7 +50,7 @@ A comprehensive campaign performance tracker and acquisition funnel dashboard. B
 - [Review Development Process HERE](./01-Portfolio-Website)
 - [View Live Website HERE](https://www.ekrayneva.space/)
 
-<img src="./01-Portfolio-Website/screenshot.png?v=2" alt="Personal Portfolio Website" width="600" />
+<img src="./01-Portfolio-Website/screenshot.png?v=2" alt="Personal Portfolio Website" width="400" />
 
 A digital presence developed as a **"Vibecoding"** experiment using the Antigravity AI agent. The project prioritizes rapid, iterative building of a professional interface, focusing on high-end aesthetics and responsive functionality.
 
@@ -59,7 +59,7 @@ A digital presence developed as a **"Vibecoding"** experiment using the Antigrav
 - [View Detailed Case Study HERE](./02-Digify-Active)
 - [View Project Site HERE](https://digifyactive.com/)
 
-<img src="./02-Digify-Active/screenshot.png?v=2" alt="Digify Active Website" width="600" />
+<img src="./02-Digify-Active/screenshot.png?v=2" alt="Digify Active Website" width="400" />
 
 A comprehensive academic project involving the creation of a marketing agency for SME fitness businesses. This project includes market research, strategic positioning, and the execution of paid acquisition campaigns (Google Ads) with a focus on performance metrics like CTR and CPA.
 
@@ -68,7 +68,7 @@ A comprehensive academic project involving the creation of a marketing agency fo
 - [Review Case Study and R Analysis HERE](./03-Walmart-AB-Testing-R)
 - [View Analysis Presentation HERE](./03-Walmart-AB-Testing-R/Causal_Inference_in_Marketing.pdf)
 
-<img src="./03-Walmart-AB-Testing-R/screenshot.png?v=2" alt="Walmart A/B Testing" width="600" />
+<img src="./03-Walmart-AB-Testing-R/screenshot.png?v=2" alt="Walmart A/B Testing" width="400" />
 
 A marketing-focused A/B test conducted in R to evaluate the effectiveness of product bundling recommendations at checkout. This analysis demonstrates how a treatment can be significantly beneficial for **Average Order Value (AOV)** even when it doesn't meaningfully impact basic conversion rates.
 
@@ -77,7 +77,7 @@ A marketing-focused A/B test conducted in R to evaluate the effectiveness of pro
 - [Review Case Study and Python Notebook HERE](./04-Python-NYC-Airbnb-Analysis)
 - [View Presentation Deck HERE](./04-Python-NYC-Airbnb-Analysis/NYC_Airbnb_Market_Analysis_Presentation.pdf)
 
-<img src="./04-Python-NYC-Airbnb-Analysis/screenshot.png?v=2" alt="NYC Airbnb Analysis" width="600" />
+<img src="./04-Python-NYC-Airbnb-Analysis/screenshot.png?v=2" alt="NYC Airbnb Analysis" width="400" />
 
 An extensive EDA project using Python to uncover pricing trends in the New York City Airbnb market. The analysis identifies key determinants of listing prices, including location (borough-specific metrics), room types, and host availability, providing strategic insights for property management and market positioning.
 
@@ -86,7 +86,7 @@ An extensive EDA project using Python to uncover pricing trends in the New York 
 - [Review Case Study and R Analysis HERE](./05-Human-AI-Interaction-R-Analysis)
 - [View Analysis Presentation Deck HERE](./05-Human-AI-Interaction-R-Analysis/Human_AI_Interaction_Analysis_Presentation.pdf)
 
-<img src="./05-Human-AI-Interaction-R-Analysis/screenshot.png?v=2" alt="Human-AI Ethics Analysis" width="600" />
+<img src="./05-Human-AI-Interaction-R-Analysis/screenshot.png?v=2" alt="Human-AI Ethics Analysis" width="400" />
 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
@@ -95,7 +95,7 @@ A research-driven statistical analysis in R exploring the ethics of Human-AI Int
 
 - [Review the full consulting case study HERE](./08-Oblicuo-Customer-Insights-Growth-Strategy)
 
-<img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="600" />
+<img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="400" />
 
 A strategic and marketing consulting project for a Barcelona listening bar seeking to increase Tuesday–Thursday visits without weakening its premium, local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the project translated customer barriers into a priority-segment strategy, implementation plan and KPI framework connecting digital activity with offline visits.
 
@@ -107,7 +107,7 @@ A strategic and marketing consulting project for a Barcelona listening bar seeki
 *Stack: Business Consulting | GTM Strategy | Market Gap Analysis | AI Infrastructure*
 - [Review Case Study and Strategy Roadmap HERE](./09-Zoria-AI-Startup-Strategy)
 
-<img src="./09-Zoria-AI-Startup-Strategy/screenshot.png?v=1" alt="Zoria AI Startup Strategy Roadmap" width="600" />
+<img src="./09-Zoria-AI-Startup-Strategy/screenshot.png?v=1" alt="Zoria AI Startup Strategy Roadmap" width="400" />
 
 A strategic consulting framework developed for an enterprise AI startup. The project establishes a comprehensive roadmap connecting core AI technology capabilities with target industry pain points, data governance infrastructure, and scalable B2B growth channels.
 * **Core Framework**: Evaluates 5 strategic pillars: **Core Technology** assessment, **Market Gap** identification in vertical automation, **Target Industry** selection, **Data Infrastructure** governance, and **Growth Strategy** execution (unit economics & customer acquisition funnels).
