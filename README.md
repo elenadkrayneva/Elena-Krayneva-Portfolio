@@ -26,7 +26,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 - [Project 4: Walmart A/B Testing – Product Bundling & Revenue Analysis](#project-4-walmart-ab-testing--product-bundling--revenue-analysis)
 - [Project 5: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-5-nyc-airbnb-market-analysis--pricing-drivers-and-trends)
 - [Project 6: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-6-human-ai-ethics--experimental-analysis-of-the-kill-switch)
-- [Project 7: Oblicuo Hi-Fi Bar – Social Media Strategy & Customer Journey](#project-7-oblicuo-hi-fi-bar--social-media-strategy--customer-journey)
+- [Project 7: Oblicuo Hi-Fi Bar — Customer Insights & Weeknight Growth Strategy](#project-7-oblicuo-hi-fi-bar--customer-insights--weeknight-growth-strategy)
 - [Project 8: Zoria – AI Startup Strategic Consulting](#project-8-zoria--ai-startup-strategic-consulting)
 
 
@@ -90,16 +90,18 @@ An extensive EDA project using Python to uncover pricing trends in the New York 
 
 A research-driven statistical analysis in R exploring the ethics of Human-AI Interaction. This project analyzed data from 260+ participants to determine factors affecting the willingness to terminate an AI agent ("Kill Switch"), with a focus on empathy, anthropomorphism, and perceived experience.
 
-### **Project 7: Oblicuo Hi-Fi Bar – Social Media Strategy & Customer Journey**
-*Stack: Social Media Strategy | Customer Journey Mapping | Empathy Mapping | Content Calendar*
-- [Review Case Study and Content Strategy HERE](./08-Oblicuo-Social-Media-Strategy)
-- [View Content Strategy Document HERE](./08-Oblicuo-Social-Media-Strategy/Social%20media%20content%20strategy.docx)
+### **Project 7: Oblicuo Hi-Fi Bar — Customer Insights & Weeknight Growth Strategy**
+*Stack: Customer Research | Audience Segmentation | Customer Journey | Growth Strategy | KPI Framework*
 
-<img src="./08-Oblicuo-Social-Media-Strategy/screenshot.png?v=1" alt="Oblicuo Customer Journey & Social Strategy" width="600" />
+- [Review the full consulting case study HERE](./08-Oblicuo-Customer-Insights-Growth-Strategy)
 
-A data-informed social media content strategy for Oblicuo Hi-Fi Bar in Barcelona (inspired by Japanese listening bar culture). Based on primary qualitative research (N=16 depth interviews) and competitive benchmarking across audiophile venues, the strategy targets **"The After-Work Neighbor"** (Marta, 28–40) and **"The Social First-Timer"** by transforming social media from an inspiration platform into a risk-reduction mechanism.
-* **Core Strategy**: Alignment of content posting windows (16:30–19:00) and low-stimulation visual cues (uncrowded seating, soft ambient lighting, personal space) to trigger spontaneous weekday visits (Tue–Thu, 19:00–22:00) during the Consideration stage.
-* **Key Deliverables**: Customer Empathy Maps, 6-stage Customer Journey Pipeline (Awareness to Advocacy), and a full 3-month multi-channel posting calendar (Instagram, Facebook, LinkedIn, X).
+<img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="700" />
+
+A strategic and marketing consulting project for a Barcelona listening bar seeking to increase Tuesday–Thursday visits without weakening its premium, local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the project translated customer barriers into a priority-segment strategy, implementation plan and KPI framework connecting digital activity with offline visits.
+
+- **Core insight:** for the priority weekday segment, social media functioned primarily as a risk-reduction mechanism rather than a discovery channel.
+- **Key deliverables:** customer research, qualitative segmentation, customer journeys, strategic recommendation, three-month implementation plan and measurement framework.
+
 
 ### **Project 8: Zoria – AI Startup Strategic Consulting**
 *Stack: Business Consulting | GTM Strategy | Market Gap Analysis | AI Infrastructure*
