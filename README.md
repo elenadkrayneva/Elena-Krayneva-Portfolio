@@ -27,7 +27,7 @@ This repository showcases my expertise in marketing analytics, growth strategy, 
 - [Project 5: NYC Airbnb Market Analysis – Pricing Drivers and Trends](#project-5-nyc-airbnb-market-analysis--pricing-drivers-and-trends)
 - [Project 6: Human-AI Ethics – Experimental Analysis of the "Kill Switch"](#project-6-human-ai-ethics--experimental-analysis-of-the-kill-switch)
 - [Project 7: Oblicuo Hi-Fi Bar — Customer Insights & Weeknight Growth Strategy](#project-7-oblicuo-hi-fi-bar--customer-insights--weeknight-growth-strategy)
-- [Project 8: Zoria – AI Startup Strategic Consulting](#project-8-zoria--ai-startup-strategic-consulting)
+- [Project 8: ZORIA — Strategic Market Prioritisation for an AI Startup](#project-8-zoria--strategic-market-prioritisation-for-an-ai-startup)
 
 
 
@@ -93,23 +93,23 @@ A research-driven statistical analysis in R exploring the ethics of Human-AI Int
 ### **Project 7: Oblicuo Hi-Fi Bar — Customer Insights & Weeknight Growth Strategy**
 *Stack: Customer Research | Audience Segmentation | Customer Journey | Growth Strategy | KPI Framework*
 
-- [Review the full consulting case study HERE](./08-Oblicuo-Customer-Insights-Growth-Strategy)
+- [Review the concise consulting case study HERE](./08-Oblicuo-Customer-Insights-Growth-Strategy)
 
-<img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="400" />
+<p align="center">
+  <img src="./08-Oblicuo-Customer-Insights-Growth-Strategy/assets/01_hero_oblicuo.jpg" alt="Oblicuo customer insights and weeknight growth strategy" width="70%">
+</p>
 
-A strategic and marketing consulting project for a Barcelona listening bar seeking to increase Tuesday–Thursday visits without weakening its premium, local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the project translated customer barriers into a priority-segment strategy, implementation plan and KPI framework connecting digital activity with offline visits.
+A consulting project for a Barcelona listening bar seeking to increase Tuesday–Thursday visits without weakening its premium local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the team translated customer barriers into a priority-segment strategy, implementation plan and KPI framework.
 
-- **Core insight:** for the priority weekday segment, social media functioned primarily as a risk-reduction mechanism rather than a discovery channel.
-- **Key deliverables:** customer research, qualitative segmentation, customer journeys, strategic recommendation, three-month implementation plan and measurement framework.
+### **Project 8: ZORIA — Strategic Market Prioritisation for an AI Startup**
+*Stack: Market Research | Competitive Benchmarking | Vertical Prioritisation | TAM / SAM / SOM | Go-to-Market*
 
+- [Review the concise anonymised consulting case study HERE](./09-Zoria-Strategic-Market-Prioritisation)
 
-### **Project 8: Zoria – AI Startup Strategic Consulting**
-*Stack: Business Consulting | GTM Strategy | Market Gap Analysis | AI Infrastructure*
-- [Review Case Study and Strategy Roadmap HERE](./09-Zoria-AI-Startup-Strategy)
+<p align="center">
+  <img src="./09-Zoria-Strategic-Market-Prioritisation/assets/01_hero_zoria.jpg" alt="ZORIA strategic market prioritisation project" width="70%">
+</p>
 
-<img src="./09-Zoria-AI-Startup-Strategy/screenshot.png?v=1" alt="Zoria AI Startup Strategy Roadmap" width="400" />
+A consulting project for an early-stage AI startup seeking a focused and defensible market direction. The team compared potential verticals through market research, competitive benchmarking, prioritisation criteria, market-sizing logic and feasibility assessment. The selected industry and final recommendation remain confidential.
 
-A strategic consulting framework developed for an enterprise AI startup. The project establishes a comprehensive roadmap connecting core AI technology capabilities with target industry pain points, data governance infrastructure, and scalable B2B growth channels.
-* **Core Framework**: Evaluates 5 strategic pillars: **Core Technology** assessment, **Market Gap** identification in vertical automation, **Target Industry** selection, **Data Infrastructure** governance, and **Growth Strategy** execution (unit economics & customer acquisition funnels).
-* **Strategic Impact**: Provides a structured methodology for early-stage AI ventures to transition from technical prototype to scalable B2B commercial deployment.
 
