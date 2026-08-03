@@ -99,7 +99,7 @@ A research-driven statistical analysis in R exploring the ethics of Human-AI Int
 
 A consulting project for a Barcelona listening bar seeking to increase Tuesday–Thursday visits without weakening its premium local identity. Based on **16 in-venue interviews**, competitor analysis and a **five-persona framework**, the team translated customer barriers into a priority-segment strategy, implementation plan and KPI framework.
 
-### **Project 8: ZORIA — Strategic Market Prioritisation for an AI Startup**
+### **Project 8: Strategic Market Prioritisation for an AI Startup**
 *Stack: Market Research | Competitive Benchmarking | Vertical Prioritisation | TAM / SAM / SOM | Go-to-Market*
 
 - [Review the concise anonymised consulting case study HERE](./09-Zoria-Strategic-Market-Prioritisation)
@@ -107,5 +107,6 @@ A consulting project for a Barcelona listening bar seeking to increase Tuesday�
 <img src="./09-Zoria-Strategic-Market-Prioritisation/assets/01_hero_zoria.jpg" alt="ZORIA strategic market prioritisation project" width="400" />
 
 A consulting project for an early-stage AI startup seeking a focused and defensible market direction. The team compared potential verticals through market research, competitive benchmarking, prioritisation criteria, market-sizing logic and feasibility assessment. The selected industry and final recommendation remain confidential.
+
 
 
